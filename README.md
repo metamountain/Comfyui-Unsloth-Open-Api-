@@ -3,7 +3,7 @@ Is it OpenAI Compatible? YES. It uses standard OpenAI-compatible endpoints (/v1/
 Does it support Images and Text? YES. The UnslothProAPI node has a mode switch for Vision (Image + Text) and Text (Text only).
 
 1. Overview
-This plugin connects ComfyUI to your local Unsloth Studio instance. It allows you to run large language models (LLMs) and vision-language models (VLMs) directly from your workflow without leaving the ComfyUI interface.
+This plugin connects ComfyUI to your local Unsloth or Whatever Studio instance. It allows you to run large language models (LLMs) and vision-language models (VLMs) directly from your workflow without leaving the ComfyUI interface.
 
 
 
