@@ -5,6 +5,10 @@ Does it support Images and Text? YES. The UnslothProAPI node has a mode switch f
 1. Overview
 This plugin connects ComfyUI to your local Unsloth Studio instance. It allows you to run large language models (LLMs) and vision-language models (VLMs) directly from your workflow without leaving the ComfyUI interface.
 
+
+
+<img width="532" height="1003" alt="Screenshot 2026-05-27 074133" src="https://github.com/user-attachments/assets/78342ca1-a8e4-4c5e-a551-0d6618e0f998" />
+
 Key Features:
 
 Live Model Picker: Automatically detects models loaded in Unsloth Studio.
